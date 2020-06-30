@@ -1,0 +1,9 @@
+.Classes {
+    height: 544px;
+    overflow-y: auto;
+    border-radius: 0 0 10px 10px;
+}
+
+.SettingDetail .Classes {
+    height: 87%;
+}

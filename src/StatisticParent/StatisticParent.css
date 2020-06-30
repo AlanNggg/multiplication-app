@@ -1,0 +1,7 @@
+.StatisticParent {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 1350px;
+    margin: 0 auto;
+}

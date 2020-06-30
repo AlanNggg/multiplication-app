@@ -1,0 +1,14 @@
+.Profile {
+    width: 700px;
+    height: 600px;
+    margin: 25px;
+    background-color: white;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+}
+
+.Profile-image {
+    align-self: center;
+    width: 100%;
+}

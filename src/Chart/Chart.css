@@ -1,0 +1,8 @@
+.Chart {
+    padding-bottom: 25px;
+    border-bottom: 1.5px solid #ddd;
+}
+.Chart h3 {
+    font-size: 1.375rem;
+    font-weight: 400;
+}

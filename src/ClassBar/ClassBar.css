@@ -1,0 +1,15 @@
+/* left-container
+.left-container {
+    width: 200px;
+    height: 600px;
+    margin: 25px;
+} */
+
+.ClassBar {
+    background-color: white;
+    width: 200px;
+    height: 600px;
+    border-radius: 10px;
+    margin: 25px;
+    overflow-y: auto;
+}

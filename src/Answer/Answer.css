@@ -1,0 +1,34 @@
+.Answer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.multiply {
+    margin: 0 25px;
+    font-size: 60px;
+    color: gold;
+}
+
+
+.Answer .Answer-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    margin: 0 10px;
+    background-color: #4AA8DB;
+    border-radius: 10px;
+}
+
+
+.filled {
+    background-color: #FDD014!important;
+}
+
+.not-filled {
+    background-color: #FFF3F2!important;
+}

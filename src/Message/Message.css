@@ -1,0 +1,21 @@
+.Message-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 7%;
+    margin-bottom: 15px;
+}
+.Message-content {
+    background: #F3F3F3;
+    border-radius: 20px;
+    padding: 5px 20px;
+    display: inline-block;
+    max-width: 100%;
+}
+.Message-text {
+    width: 100%;
+    letter-spacing: 0;
+    float: left;
+    font-size: 1em;
+    word-wrap: break-word;
+    margin: 0;
+}

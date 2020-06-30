@@ -1,0 +1,11 @@
+.Detail {
+    height: 544px;
+    padding: 25px;
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-y: auto;
+}

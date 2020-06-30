@@ -1,0 +1,26 @@
+.Info {
+    padding: 25px 0;
+    
+}
+.Info h3 {
+    font-size: 1.375rem;
+    font-weight: 400;
+}
+.Info h5 {
+    font-size: 1rem;
+}
+.Info-detail {
+    padding: 10px 0;
+}
+.Info-detail:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}
+.Info-title  {
+    display: inline-block;
+    color: #5f6368;
+    width: 30%;
+}
+.Info-content {
+    display: inline-block;
+    width: 70%;
+}

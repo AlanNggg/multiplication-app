@@ -1,0 +1,62 @@
+.Game {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.Game .hint {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-start;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+.Game .question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    background-color: #4AA8DB;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-size: 50px;
+    color: white;
+}
+
+.Game .TimeBar-time {
+    width: 100%;
+    height: 10px;
+    background-color: red;
+}
+
+.Game .TimeBar {
+    width: 100%;
+    height: 10px;
+    background-color: lightgray;
+}
+
+.Game-image {
+    width: 100%;    
+}
+
+.Game-score {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    /* top: -10px; */
+    position: relative;
+}

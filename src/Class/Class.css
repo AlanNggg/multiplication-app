@@ -1,0 +1,28 @@
+.Class {
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.700); */
+}
+
+.Class-title {
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+    font-size: 1em;
+    font-weight: 500;
+    max-width: 100%;
+    cursor: pointer;
+}
+.Class-title i {
+    margin-left: auto;
+}
+
+.Class-student {
+    background: #ffffff;
+    display: block;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgb(230, 230, 230, 0.7);
+    font-size: 1em;
+    max-width: 100%;
+}
